@@ -5,4 +5,4 @@ plotly
 scikit-learn
 requests
 python-dotenv
-ollama
+llama3.1:latest
